@@ -1,0 +1,9 @@
+[build]
+
+	command = "hugo --verbose --i18n-warnings --baseURL $DEPLOY_PRIME_URL"
+	publish = "public"
+	environment = { HUGO_VERSION = "0.42" }
+
+[context.production]
+
+	command = "hugo --verbose --i18n-warnings --baseURL $URL"

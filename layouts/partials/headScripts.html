@@ -1,0 +1,24 @@
+		{{- /**/}}
+		{{- if eq (getenv "BRANCH") "production" }}
+		{{- .Scratch.Set "siteId" 1 }}
+		{{- else if eq (getenv "BRANCH") "staging" }}
+		{{- .Scratch.Set "siteId" 2 }}
+		{{- else if eq (getenv "BRANCH") "development" }}
+		{{- .Scratch.Set "siteId" 3 }}
+		{{- end }}
+		{{- with .Scratch.Get "siteId" }}
+		<script>
+			var _paq = _paq || [];
+			_paq.push(['trackPageView']);
+			_paq.push(['enableLinkTracking']);
+			_paq.push(['enableHeartBeatTimer']);
+			(function() {
+				var u="https://matomo.oui.ski/";
+				_paq.push(['setTrackerUrl', u+'p.php5']);
+				_paq.push(['setSiteId', '{{ . }}']);
+				var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+				g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'p.js'; s.parentNode.insertBefore(g,s);
+			})();
+		</script>
+		{{- end }}
+		{{- /**/ -}}

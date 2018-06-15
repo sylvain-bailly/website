@@ -1,0 +1,37 @@
+params:
+  editor:
+    name: "Samuel Rege Gianasso"
+    address:
+    - "15 chemin du Colombier"
+    - "73190 Saint-Jeoire-Prieuré"
+    phone: "+33 6 11 20 27 35"
+  publicationDirector: "Samuel Rege Gianasso"
+  hostingCompany:
+    name: "Netlify, Inc"
+    address:
+    - "2325 3rd Street"
+    - "Suite 215"
+    - "San Francisco, California 94107"
+    - "United States of America"
+    phone: "+1 (844) 899-7312"
+languages:
+  fr:
+    languageCode: "fr"
+    languageName: "Français"
+    title: "Oui Ski !"
+    params:
+      contact:
+        name: "Oui Ski"
+        address:
+        - "15 chemin du Colombier"
+        - "73190 Saint-Jeoire-Prieuré"
+        phone: "+33 6 11 20 27 35"
+  ja:
+    languageCode: "ja"
+defaultContentLanguage: "fr"
+defaultContentLanguageInSubdir: true
+disableKinds:
+- "taxonomyTerm"
+- "taxonomy"
+- "RSS"
+theme: "spectral"
