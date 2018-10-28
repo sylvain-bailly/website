@@ -2,7 +2,8 @@
 menu:
   main:
     weight: 1
-title: "Accueil"
+title: "Initiation, entrainement et stages de ski de fond et ski-roues"
+linktitle: "Accueil"
 resources:
 - src: "home-banner.jpg"
   params:

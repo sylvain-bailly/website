@@ -40,7 +40,7 @@ Aujourd’hui, à 30 ans, Sam est un athlète compétitif, se frottant aux meill
 >
 > **Sam**
 
-##### palmarès
+## palmarès
 
 {{% list classes="alt" %}}
 - {{< image source="flags/france.svg" width="2em" >}} Membre de l’équipe de France de 2006 à 2008
