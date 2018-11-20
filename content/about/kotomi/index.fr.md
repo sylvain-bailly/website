@@ -9,5 +9,10 @@ resources:
   title: "Portrait de Kotomi"
   params:
     cover: true
-url: "/fr/à-propos/kotomi"
+url: "/fr/à-propos/kotomi-Fujii"
+aliases: "/fr/à-propos/kotomi"
+- ""
+seo:
+  title: "A propos de Kotomi Fujii, responsable développement Japon"
+  description: "Épouse japonaise de Sam, elle est en charge du développement de Oui Ski en lien avec le Japon. Traductrice du site internet en japonais, elle coordonne les prestations de Oui Ski au Japon."
 ---
