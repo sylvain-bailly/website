@@ -1,6 +1,8 @@
 ---
 weight: 4
-title: "Matériel"
+title: "Ski roue / Rollerski skating et classique"
+subtitle: "Vente & accompagnement"
+linktitle: "Matériel"
 description: "Vente de matériel, accompagnement lors de sa prise en main et initiation à son entretien"
 icon: "fa-wrench"
 categories:
@@ -12,7 +14,12 @@ resources:
 - src: "skating-rollerskis.png"
   name: "Skating rollerskis"
   title: "Rollerskis skating"
-url: "/fr/services/matériel"
+url: "/fr/services/ski-roue-rollerski"
+aliases: "/fr/services/matériel"
+- ""
+seo:
+  title: "Ski roue / Rollerski skating et classique, vente & accompagnement"
+  description: "OUI SKI vous accompagne dans l'achat de Ski roue / Rollerski de la marque Nordeex, sa prise en main et vous initie à son entretien."
 ---
 ## Vente de rollerski « Oui Ski Nordeex » sur commande
 
