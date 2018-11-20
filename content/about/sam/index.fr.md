@@ -9,7 +9,12 @@ resources:
   title: "Portrait de Sam"
   params:
     cover: true
-url: "/fr/à-propos/sam"
+url: "/fr/a-propos/sam-rege-gianasso/"
+aliases: "/fr/à-propos/sam"
+- ""
+seo:
+  title: "A propose de Samuel Rege Gianasso, fondateur et gérant"
+  description: "À l’origine de Oui Ski, il en est le principal acteur. À la fois moniteur, entraineur et technicien, il intervient sur toutes les prestations de services Oui Ski."
 ---
 D’une maman poussant sur les bâtons jusqu’aux derniers instants de sa grossesse et d’un papa fougueux cycliste, Sam n’a cessé d’abuser de ses skis et vélos durant son enfance, souvent accompagné de sa sœur courageuse de supporter un frère surnommé 20 mille volts !
 
