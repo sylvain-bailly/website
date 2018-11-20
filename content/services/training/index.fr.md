@@ -15,7 +15,7 @@ seo:
   title: "Entrainement & préparation physique Ski de fond / Ski roues"
   description: "OUI SKI vous propose un accompagnement personnalisé pour du perfectionnement technique et/ou de la programmation individualisée de l’entrainement pour des skieurs confirmés et athlètes de haut niveau"
 ---
-## Initiation de ski de fond, pour qui ?
+## Entraînement de ski de fond, pour qui ?
 
 {{% list %}}
 - Adultes
