@@ -1,11 +1,20 @@
 ---
 weight: 1
-title: "Initiation"
+title: "Initiation & cours de ski de fond"
+linktitle: "Initiation"
+subtitle: "Progressez rapidement dans une ambiance ludique et conviviale"
 description: "Séances de découverte de la pratique du ski de fond et du rollerski, sur des itinéraires adaptés à votre niveau, dans une ambiance ludique et conviviale"
 icon: "fa-play"
 categories:
 - "Initiation"
-url: "/fr/services/initiation"
+url: "/fr/services/initiation-cours"
+aliases: "/fr/services/initiation"
+- ""
+seo:
+  title: "Cours de ski de fond & ski roue / Roller skis Rhône Alpes"
+  description: "Découvrez la pratique du ski de fond et du rollerski avec un ancien athlète des équipes de France. Profitez d'itinéraires adaptés à votre niveau, dans une ambiance ludique et conviviale.
+
+"
 ---
 Le ski de fond est une activité qui s’adresse à tout le monde. Nul besoin d’être un professionnel pour prendre du plaisir sur les spatules **une fois les bases de la technique acquises**. Prenez un ou plusieurs cours d’initiation avec Oui Ski afin de progresser plus rapidement.
 
