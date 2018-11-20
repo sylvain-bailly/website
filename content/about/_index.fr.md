@@ -3,7 +3,12 @@ menu:
   main:
     weight: 2
 title: "A propos"
-url: "/fr/à-propos"
+url: "/fr/a-propos"
+aliases: "/fr/à-propos"
+- ""
+seo:
+  title: "Histoire, projet et composition de l'équipe"
+  description: "Oui Ski a vu le jour en 2018 sous l’impulsion de Samuel Rege Gianasso, ancien membre de l’équipe de France de ski de fond. Après avoir entrainé durant dix ans le groupe élite du meilleur club français, cet amoureux du ski nordique a décidé de monter son entreprise dans le but de communiquer sa passion au plus grand nombre."
 ---
 Oui Ski a vu le jour en 2018 sous l’impulsion de Samuel Rege Gianasso, ancien membre de l’équipe de France de ski de fond. Après avoir entrainé durant dix ans le groupe élite du meilleur club français, cet amoureux du ski nordique a décidé de monter son entreprise dans le but de communiquer sa passion au plus grand nombre.
 
