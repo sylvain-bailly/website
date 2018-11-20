@@ -21,5 +21,9 @@ buttons:
     label: "En apprendre plus sur Oui Ski"
   contact:
     label: "Nous contacter"
+- ""
+seo:
+  title: "Initiation, entrainement, stage de ski de fond & ski roue"
+  description: "Que vous soyez en quête d’augmentation de vos performances, d’approfondissement de votre connaissance du matériel ou tout simplement d’amélioration de vos sensations de glisse, OUI SKI répondra à toutes vos attentes, été comme hiver."
 ---
 Bénéficiez de l’expertise d’un ancien membre de l'équipe de France et entraineur du meilleur club français quelque soit votre niveau et toujours sans prise de tête !
