@@ -1,12 +1,18 @@
 ---
 weight: 3
-title: "Compétitions / stages"
+title: "Compétitions & stages de ski de fond / ski roues"
+linktitle: "Compétitions / stages"
 description: "Organisation de déplacements en groupes sur des épreuves sportives en France et à l’étranger, camps d’entrainement ou de découverte en contrées nordiques"
 icon: "fa-heartbeat"
 categories:
 - "Compétition"
 - "Stages"
-url: "/fr/services/compétition"
+url: "/fr/services/competition-stage"
+aliases: "/fr/services/compétition"
+- ""
+seo:
+  title: "Stage et préparation physique en Ski de fond / Ski roues"
+  description: "Organisation de déplacements en groupes sur des épreuves sportives en France et à l’étranger, camps d’entrainement ou de découverte en contrées nordiques"
 ---
 ## Fiemme Rollerski cup
 
