@@ -9,5 +9,9 @@ resources:
   title: "Portrait de Foué"
   params:
     cover: true
-url: "/fr/à-propos/foué"
+url: "/fr/a-propos/françois-place"
+aliases:
+- "/fr/à-propos/foué"
+seo:
+  title: "À propos de François Place, champion de Ski Cross & Parrain de Oui Ski"
 ---

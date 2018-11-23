@@ -9,7 +9,11 @@ resources:
   title: "Portrait de Sam"
   params:
     cover: true
-url: "/fr/à-propos/sam"
+url: "/fr/a-propos/sam-rege-gianasso/"
+aliases:
+- "/fr/à-propos/sam"
+seo:
+  title: "À propos de Samuel Rege Gianasso, fondateur et gérant"
 ---
 D’une maman poussant sur les bâtons jusqu’aux derniers instants de sa grossesse et d’un papa fougueux cycliste, Sam n’a cessé d’abuser de ses skis et vélos durant son enfance, souvent accompagné de sa sœur courageuse de supporter un frère surnommé 20 mille volts !
 

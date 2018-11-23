@@ -1,6 +1,8 @@
 ---
 weight: 4
-title: "Matériel"
+title: "Ski-roues / rollerskis skating et classique"
+subtitle: "Vente & accompagnement"
+linktitle: "Matériel"
 description: "Vente de matériel, accompagnement lors de sa prise en main et initiation à son entretien"
 icon: "fa-wrench"
 categories:
@@ -12,9 +14,14 @@ resources:
 - src: "skating-rollerskis.png"
   name: "Skating rollerskis"
   title: "Rollerskis skating"
-url: "/fr/services/matériel"
+url: "/fr/services/ski-roues-rollerskis"
+aliases:
+- "/fr/services/matériel"
+seo:
+  title: "Ski-roues / rollerskis skating et classique, vente & accompagnement"
+  description: "Oui Ski vous accompagne dans l’achat de ski-roues / rollerskis de la marque Nordeex, sa prise en main et vous initie à son entretien."
 ---
-## Vente de rollerski « Oui Ski Nordeex » sur commande
+## Vente de rollerskis « Oui Ski Nordeex » sur commande
 
 Basée en Savoie, Nordeex est une Marque Française créée en 2014 par deux passionnés de ski et dont l’activité principale est de concevoir, fabriquer et commercialiser des produits autour des activités nordiques. Les objectifs de Nordeex sont simples : conjuguer design, technicité et fiabilité ; développer pour chaque produit une gamme enfant avec le même niveau d’exigences ; commercialiser des produits en visant le 100% made in France ; avoir un impact environnemental faible en utilisant des matériaux recyclables et en travaillant avec des fournisseurs et sous-traitants de proximité ; injecter un savant cocktail de plaisir, performance et liberté.
 
@@ -24,7 +31,7 @@ Basée en Savoie, Nordeex est une Marque Française créée en 2014 par deux pas
 
 {{% list %}}
 - Séance de test avant achat avec Sam
-- Le design de votre rollerski personnalisé à votre image (option)
+- Le design de vos rollerskis personnalisé à votre image (option)
 - Pour toute commande avec Oui Ski, une Séance d’inauguration du rollerski Oui Ski Nordeex offerte
 {{% /list %}}
 

@@ -1,21 +1,27 @@
 ---
 weight: 2
-title: "Entrainement"
+title: "Entraînement de ski de fond"
+linktitle: "Entraînement"
+subtitle: "Entraînement, stage et programme individuel"
 description: "Accompagnement personnalisé pour du perfectionnement technique et/ou de la programmation individualisée de l’entrainement pour des skieurs confirmés et athlètes de haut niveau"
 icon: "fa-level-up"
 categories:
 - "Perfectionnement technique"
 - "Suivi d’entrainement"
 url: "/fr/services/entrainement"
+aliases:
+seo:
+  title: "Entrainement & préparation physique ski de fond / ski-roue"
+  description: "Oui Ski vous propose un accompagnement personnalisé pour du perfectionnement technique et/ou de la programmation individualisée de l’entrainement pour des skieurs confirmés et athlètes de haut niveau."
 ---
-## Initiation de ski de fond, pour qui ?
+## Entraînement de ski de fond, pour qui ?
 
 {{% list %}}
 - Adultes
 - Niveaux Intermédiaires et confirmés
 {{% /list %}}
 
-## Votre Moniteur
+## Votre Moniteur / Entraîneur
 
 [Samuel Rege Gianasso]({{< page "sam" >}}), diplômé d’Etat de ski nordique et ancien membre des équipes de France de ski de fond
 
@@ -79,7 +85,7 @@ Profitez de captures vidéos pendant la séance de ski et d’un débriefing per
 
 ## Tarifs equipes et stages "longue durée"
 
-Vous êtes + de 5 personnes ? Vous souhaitez un coaching sur la demi-journée, la journée, la semaine ? Contactez-nous pour un devis personnalisé.
+Vous êtes + de 5 personnes ? Vous souhaitez un coaching sur la demi-journée, la journée, la semaine ? Contactez-nous pour un devis personnalisé.
 
 {{% actions %}}
 - {{< button title="Contactez-nous" target="page:contact" classes="special" >}}

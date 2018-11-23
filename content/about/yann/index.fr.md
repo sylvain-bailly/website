@@ -9,5 +9,9 @@ resources:
   title: "Portrait de Yann"
   params:
     cover: true
-url: "/fr/à-propos/yann"
+url: "/fr/à-propos/yann-soubeyrand"
+aliases:
+- "/fr/à-propos/yann"
+seo:
+  title: "À propos de Yann Soubeyrand, responsable informatique"
 ---
