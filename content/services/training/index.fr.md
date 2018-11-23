@@ -22,7 +22,7 @@ seo:
 - Niveaux Intermédiaires et confirmés
 {{% /list %}}
 
-## Votre Moniteur
+## Votre Moniteur / Entraîneur
 
 [Samuel Rege Gianasso]({{< page "sam" >}}), diplômé d’Etat de ski nordique et ancien membre des équipes de France de ski de fond
 
