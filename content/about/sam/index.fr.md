@@ -5,7 +5,7 @@ linktitle: "Sam"
 subtitle: "Fondateur et dirigeant de Oui Ski"
 description: "À l’origine de Oui Ski, il en est le principal acteur. À la fois moniteur, entraineur et technicien, il intervient sur toutes les prestations de services Oui Ski."
 resources:
-- src: "sam.jpg"
+- src: "sam.jpeg"
   title: "Portrait de Sam"
   params:
     cover: true

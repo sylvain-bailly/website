@@ -6,10 +6,10 @@ icon: "fa-wrench"
 categories:
 - "Matériel"
 resources:
-- src: "classic-rollerskis.png"
+- src: "classic-rollerskis.webp"
   name: "classic rollerskis"
   title: "Rollerskis classiques"
-- src: "skating-rollerskis.png"
+- src: "skating-rollerskis.webp"
   name: "Skating rollerskis"
   title: "Rollerskis skating"
 url: "/fr/services/matériel"

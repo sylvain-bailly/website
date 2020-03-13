@@ -3,7 +3,7 @@ date: 2018-06-01
 author: "Sam"
 title: "Lancement de Oui Ski"
 resources:
-- src: "cover.jpg"
+- src: "cover.webp"
   params:
     cover: true
 - src: "logo.png"

@@ -5,10 +5,10 @@ menu:
 title: "Initiation, entrainement et stages de ski de fond et ski-roues"
 linktitle: "Accueil"
 resources:
-- src: "home-banner.jpg"
+- src: "home-banner.webp"
   params:
     home-banner: true
-- src: "banner.jpg"
+- src: "banner.webp"
   params:
     banner: true
 - src: "logo.svg"

@@ -6,7 +6,7 @@ resources:
 - src: "logo.png"
   name: "logo"
   title: "Logo du team"
-- src: "members.png"
+- src: "members.webp"
   name: "members"
   title: "Photo des membres du team"
   params:
