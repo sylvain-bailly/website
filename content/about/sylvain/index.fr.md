@@ -24,4 +24,4 @@ Ancien coéquipier de Sam et Yann en équipe de France de ski, j'ai travaillé s
 
 Je conçois, développe et manage des projets web depuis 7 ans. Mon challenge quotidien est d’aider les entreprises à remplir leurs objectifs marketing et commerciaux grâce au levier du marketing digital. Avec Internet, j’améliore leur visibilité, leur notoriété, j’augmente leur chiffre d’affaires et j’optimise le retour sur investissement de leurs dépenses publicitaires.
 
-En 2020, j'ai créé [QWEB.ECO](https://qweb.eco/ "Site internet qweb.eco") pour aligner mes expertises professionnelles avec mes valeurs et engagements personnels. Visiteze mon site internet : [QWEB.ECO, l'expertise webmarketing] !
+En 2020, j'ai créé [QWEB.ECO](https://qweb.eco/ "Site internet qweb.eco") pour aligner mes expertises professionnelles avec mes valeurs et engagements personnels. Visitez mon site internet : [QWEB.ECO - L'expert webmarketing](https://qweb.eco/ "Site internet qweb.eco") !
