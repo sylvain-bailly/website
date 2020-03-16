@@ -9,5 +9,9 @@ resources:
   title: "Portrait de Kotomi"
   params:
     cover: true
-url: "/fr/à-propos/kotomi"
+url: "/fr/à-propos/kotomi-Fujii"
+aliases:
+- "/fr/à-propos/kotomi"
+seo:
+  title: "À propos de Kotomi Fujii, responsable développement Japon"
 ---

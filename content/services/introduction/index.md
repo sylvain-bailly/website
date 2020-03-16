@@ -1,15 +1,22 @@
 ---
 weight: 1
-title: "Initiation"
+title: "Initiation & cours de ski de fond"
+linktitle: "Initiation"
+subtitle: "Progressez rapidement dans une ambiance ludique et conviviale"
 description: "Séances de découverte de la pratique du ski de fond et du rollerski, sur des itinéraires adaptés à votre niveau, dans une ambiance ludique et conviviale"
 icon: "fa-play"
 categories:
 - "Initiation"
-url: "/fr/services/initiation"
+url: "/fr/services/initiation-cours"
+aliases:
+- "/fr/services/initiation"
+seo:
+  title: "Cours de ski de fond & ski-roue / rollerski Rhône Alpes"
+  description: "Découvrez la pratique du ski de fond et du rollerski avec un ancien athlète des équipes de France. Profitez d’itinéraires adaptés à votre niveau, dans une ambiance ludique et conviviale."
 ---
 Le ski de fond est une activité qui s’adresse à tout le monde. Nul besoin d’être un professionnel pour prendre du plaisir sur les spatules **une fois les bases de la technique acquises**. Prenez un ou plusieurs cours d’initiation avec Oui Ski afin de progresser plus rapidement.
 
-## Initiation au ski de fond, pour qui ?
+## Initiation au ski de fond, pour qui ?
 
 {{% list %}}
 - Adultes
@@ -53,7 +60,7 @@ Cours individuels ou collectifs
 
 > « Avant chaque cours d’initiation, je ferai le point avec vous sur vos envies et vos attentes. Nous fixerons ensemble un objectif de séance afin de pouvoir mesurer votre progression. Votre apprentissage débutera par le ressenti de la glisse, l’équilibre et le contact du matériel avec la neige. Vous évoluerez dans un premier temps sur le stade d’enseignement afin de prendre toute la confiance nécessaire pour partir sur les pistes. Rapidement, nous mettrons en pratique mes conseils sur les premières pistes (verte, bleu, rouge).
 
-> L’identité pédagogique et technique de mes cours d’initiation résident dans le fait d'accorder une importance prépondérante aux sentiments de bien-être. La confiance, le plaisir de réussir et la satisfaction d'acquérir les techniques du ski de fond seront les éléments incontournables de votre progression. »
+> L’identité pédagogique et technique de mes cours d’initiation résident dans le fait d’accorder une importance prépondérante aux sentiments de bien-être. La confiance, le plaisir de réussir et la satisfaction d'acquérir les techniques du ski de fond seront les éléments incontournables de votre progression. »
 
 
 ## Tarifs
