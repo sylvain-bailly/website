@@ -18,7 +18,7 @@ seo:
 
 ## Bonjour, c’est Sylvain BAILLY
 
-Ancien coéquipier de Sam et Yann en équipe de France de ski, j'ai travaillé sur la partie structuration, [conception](https://qweb.eco/services/creation-de-site-internet/ "Service de création de site internet à Chambéry") (Design, gestion de projet, rédaction des contenus) et [référencement naturel](hhttps://qweb.eco/services/strategie-digitale/ "Service de marketing digital à Chambéry") du site internet.
+Ancien coéquipier de Sam et Yann en équipe de France de ski, j'ai travaillé sur la partie structuration, [conception](https://qweb.eco/services/creation-de-site-internet/ "Service de création de site internet à Chambéry") (Design, gestion de projet, rédaction des contenus) et [référencement naturel](https://qweb.eco/services/strategie-digitale/ "Service de marketing digital à Chambéry") du site internet.
 
 ## QWEB.ECO : Conseils en Marketing digital à Chambéry
 
